@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BankingApp",
+      "request": "launch",
+      "mainClass": "BankingApp",
+      "projectName": "vs code programming_db15c771"
+    },
+    {
+      "type": "java",
+      "name": "TrafficLightSimulator",
+      "request": "launch",
+      "mainClass": "TrafficLightSimulator",
+      "projectName": "vs code programming_db15c771"
+    },
+    {
+      "type": "java",
       "name": "DivisionApp",
       "request": "launch",
       "mainClass": "DivisionApp"
